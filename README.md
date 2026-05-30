@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+```java
 class NithishKumar:
     def __init__(self):
         self.name           = "Nithish Kumar S"
