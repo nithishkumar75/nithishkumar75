@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=nithishkumars&style=flat-square&color=6366f1&label=PROFILE+VIEWS&labelColor=0d1117" />
   &nbsp;
   <a href="https://linkedin.com/in/nithishkumars">
-    <img src="https://img.shields.io/badge/LinkedIn-nithishkumars-6366f1?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    <img src="https://www.linkedin.com/in/nithish-kumar-s-592583257?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-8b5cf6?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" />
