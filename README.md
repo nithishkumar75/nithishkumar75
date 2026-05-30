@@ -14,221 +14,262 @@ Here are some ideas to get you started:
 -->
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0c10,1e1b4b,312e81,4338ca,6366f1&customColorList=0,2,4,6,8&height=200&section=header&text=NITHISH%20KUMAR%20S&fontSize=48&fontColor=f0f4ff&animation=twinkling&fontAlignY=35&desc=Front%20End%20Developer%20%7C%20Machine%20Learning%20Practitioner&descAlignY=62&descSize=16&descColor=818cf8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nithish%20Kumar%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Frontend%20Dev%20%7C%20ML%20Practitioner%20%7C%20Problem%20Solver&descAlignY=62&descSize=17" />
 </p>
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6366f1&label=PROFILE+VIEWS&labelColor=0d1117" />
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-8b5cf6?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Certified-EA580C?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Nithish+Kumar+%F0%9F%91%8B;Frontend+Developer+%7C+React+%26+Node.js;Machine+Learning+Practitioner+%F0%9F%A4%96;Building+Scalable+%26+Beautiful+Products" alt="Typing SVG" />
 </p>
-<!-- TYPING SVG -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=750&lines=Building+scalable+UI+%26+AI-powered+solutions;Front+End+Developer+%7C+React+%26+Node.js;Machine+Learning+Practitioner+%7C+Python;B.E+CSE+%40+Sri+Sairam+Institute+of+Technology+%F0%9F%9A%80" />
+  <img src="https://komarev.com/ghpvc/?username=nithishkumars&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;
+  <a href="mailto:nithishkumars@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/nithishkumars"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
+
 ---
- 
-<!-- ABOUT ME CODE BLOCK -->
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-```javascript
-const developer = {
- 
-  name     : "Nithish Kumar S",
-  location : "Chennai, India",
-  degree   : "B.E CSE · Sri Sairam Institute of Technology",
-  cgpa     : "7.87 / 10.0",
- 
-  stack    : [
-    "React", "Node.js", "Spring Boot",
-    "Python", "Java", "MySQL"
-  ],
- 
-  learning : ["AWS", "Docker", "Machine Learning"],
- 
-  funFact  : "I turn coffee into clean UI ☕",
- 
-  motto    : () => {
-    // build fast · learn always · ship clean
-  }
- 
-};
+
+## 👨‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class NithishKumar:
+
+    name        = "Nithish Kumar S"
+    location    = "Chennai, Tamil Nadu, India 🇮🇳"
+    degree      = "B.E – Computer Science Engineering"
+    institution = "Sri Sairam Institute of Technology"
+    cgpa        = 7.87
+
+    stack = [
+        "React", "Node.js", "Spring Boot",
+        "Python", "Java", "MySQL"
+    ]
+
+    currentlyLearning = [
+        "System Design",
+        "Advanced ML Pipelines",
+        "AWS Cloud Architecture"
+    ]
+
+    def funFact(self):
+        return "I debug with console.log and I'm not ashamed 😄"
+
+    def motto(self):
+        return "Ship fast. Learn faster. Build better. 🚀"
 ```
- 
+
 <br clear="right"/>
+
 ---
- 
-<!-- TECH BADGES -->
-## ⚙️ Tech Stack
- 
+
+## 🛠️ Tech Stack & Tools
+
 **Languages**
- 
-![Java](https://img.shields.io/badge/Java-EA580C?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-EAB308?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-818CF8?style=flat-square&logo=databricks&logoColor=white)
- 
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 **Frontend**
- 
-![React](https://img.shields.io/badge/React-06B6D4?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-EA580C?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3B82F6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=nodedotjs&logoColor=white)
- 
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 **Backend**
- 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-22C55E?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-6366F1?style=flat-square&logo=fastapi&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Java Servlets](https://img.shields.io/badge/Java_Servlets-EA580C?style=flat-square&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-6366F1?style=flat-square&logo=openjdk&logoColor=white)
- 
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Java Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 **Cloud & DevOps**
- 
-![AWS](https://img.shields.io/badge/AWS-EA580C?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6366F1?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-EA580C?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)
- 
-**Database**
- 
-![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square&logo=mysql&logoColor=white)
- 
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 **Machine Learning**
- 
-![NumPy](https://img.shields.io/badge/NumPy-3B82F6?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6366F1?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EA580C?style=flat-square&logo=scikitlearn&logoColor=white)
- 
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 **Tools**
- 
-![VS Code](https://img.shields.io/badge/VS_Code-3B82F6?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-8B5CF6?style=flat-square&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-EA580C?style=flat-square&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-06B6D4?style=flat-square&logo=canva&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-22C55E?style=flat-square&logo=microsoftexcel&logoColor=white)
- 
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
 ---
- 
-<!-- STREAK STATS -->
-## 🔥 Streak
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=818CF8&sideLabels=4B5563&dates=4B5563&currStreakNum=F0F4FF&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/nithishkumars">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithishkumars&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/nithishkumars">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumars&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
 ---
- 
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity
- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=8b5cf6&area=true&area_color=6366f1&hide_border=true" />
-</p>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nithishkumars&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
 ---
- 
-<!-- TROPHY WALL -->
-## 🏅 Trophies
- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</p>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkumars&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
 ---
- 
-<!-- WORK EXPERIENCE -->
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nithishkumars&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
 ## 💼 Work Experience
- 
+
 <details>
-<summary><b>🏢 Trios Technologies &nbsp;·&nbsp; Machine Learning Intern &nbsp;·&nbsp; Jun 2025 – Jul 2025</b></summary>
+<summary>🤖 <strong>Machine Learning Intern</strong> — Trios Technologies &nbsp;|&nbsp; Jun 2025 – Jul 2025 &nbsp;|&nbsp; Chennai, India</summary>
+
 <br/>
-> ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white)
-> ![SQL](https://img.shields.io/badge/SQL-818CF8?style=flat-square&logo=databricks&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square&logo=mysql&logoColor=white)
-> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EA580C?style=flat-square&logo=scikitlearn&logoColor=white)
-> ![Google Cloud](https://img.shields.io/badge/Google_Cloud_AI-6366F1?style=flat-square&logo=googlecloud&logoColor=white)
-> ![Canva](https://img.shields.io/badge/Canva-06B6D4?style=flat-square&logo=canva&logoColor=white)
- 
-- ▸ Engineered end-to-end data preprocessing pipeline for **12,000+ records** using Python and SQL, reducing data preparation time by **30%** and enabling the team to iterate on model experiments **twice as fast**
-- ▸ Implemented supervised learning models (Linear Regression, Decision Trees) on Google Cloud AI Platform, achieving **85% validation accuracy** and automating hyperparameter tuning across **three product lines**
-- ▸ Created interactive experiment tracking dashboards in Canva (precision, recall, ROC-AUC), improving stakeholder decision-making speed by **20%**
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+> ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+- 🔧 Engineered an end-to-end data preprocessing pipeline for **12,000+ records** using Python & SQL, storing cleaned datasets in MySQL and automating feature extraction — reducing data prep time by **30%** and enabling **2× faster** model iteration cycles.
+- 🤖 Implemented supervised learning models (Linear Regression, Decision Trees) on **Google Cloud AI Platform**, achieving **85% validation accuracy**, automating hyperparameter tuning, and documenting AI concepts for cross-team knowledge transfer, streamlining deployments across **3 product lines**.
+- 📊 Built interactive experiment tracking dashboards in Canva visualizing precision, recall, and ROC-AUC, improving stakeholder decision-making speed by **20%** and bridging data science and product teams during sprint reviews.
+
 </details>
+
 <details>
-<summary><b>🏢 Innovate Intern &nbsp;·&nbsp; Front End Developer &nbsp;·&nbsp; Jun 2024 – Aug 2024 &nbsp;·&nbsp; Remote</b></summary>
+<summary>⚛️ <strong>Front End Developer Intern</strong> — Innovate Intern &nbsp;|&nbsp; Jun 2024 – Aug 2024 &nbsp;|&nbsp; Chennai, India</summary>
+
 <br/>
-> ![React](https://img.shields.io/badge/React-06B6D4?style=flat-square&logo=react&logoColor=white)
-> ![HTML5](https://img.shields.io/badge/HTML5-EA580C?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-3B82F6?style=flat-square&logo=css3&logoColor=white)
-> ![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=nodedotjs&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square&logo=mysql&logoColor=white)
-> ![REST API](https://img.shields.io/badge/REST_API-6366F1?style=flat-square&logo=fastapi&logoColor=white)
- 
-- ▸ Architected responsive e-commerce front end using React, HTML5, and CSS3 with lazy loading — **1,500+ daily users**, **99% uptime**, page load time reduced by **35%**
-- ▸ Developed Node.js REST API integrated with MySQL, handling **200+ concurrent requests** with caching strategies and reducing page load latency by **40%**
-- ▸ Created high-fidelity UI mockups and style guides in Canva, accelerating front-end implementation cycles by **15%**
+
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+- 🏗️ Architected a responsive front end using React, HTML5, and CSS3 with component-based UI patterns and lazy loading — delivering a scalable e-commerce interface for **1,500+ daily users** with **99% uptime** and **35% faster** initial page load time.
+- ⚡ Developed a Node.js REST API integrated with MySQL, designing schema for product catalog and user orders, handling **200+ concurrent requests**, implementing caching, and reducing page load latency by **40%**, boosting checkout conversion rates.
+- 🎨 Created high-fidelity UI mockups and comprehensive style guides in Canva, accelerating front-end implementation cycles by **15%** and shortening time-to-market for new feature releases.
+
 </details>
+
 ---
- 
-<!-- FEATURED PROJECTS -->
+
 ## 🚀 Featured Projects
- 
-<p align="center">
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| **🛒 E-Commerce Website** — Scalable online retail platform with optimized user workflows | `React` `Node.js` `MySQL` `CSS3` | 1,500+ daily users · 99% uptime · 35% faster load |
-| **🏥 Healthcare Management System** — Full-stack app for patients, reports & appointments | `Spring Boot` `React.js` `MySQL` `JWT` | Role-based access · JWT auth · Real-time dashboard charts |
-| **🌐 VR Exploration of Wonders** — Immersive virtual environment for global landmarks | `VR` `Interactive Navigation` | Global landmarks simulated · Structured interactive UX |
- 
-</p>
+
+<div align="center">
+
+| 🗂️ Project | ⚙️ Stack | ✨ Highlights |
+|:---|:---|:---|
+| [🛒 **E-Commerce Website**](#) | `React` `Node.js` `MySQL` `CSS3` | Scalable front-end architecture with optimized user workflows, dynamic data handling & client-side state management for seamless session-based operations |
+| [🏥 **Healthcare Management System**](#) | `Spring Boot` `React.js` `MySQL` `JWT` | Full-stack app managing patients, reports & appointments; JWT auth, role-based access, REST APIs, responsive dashboard with real-time charts |
+| [🌍 **VR Exploration of Wonders**](#) | `VR` `Interactive UI` | Immersive virtual environment simulating exploration of global landmarks with interactive navigation and structured content |
+
+</div>
+
 ---
- 
-<!-- ACHIEVEMENTS -->
-## 🎯 Achievements & Certifications
- 
-<p align="center">
-| &nbsp; | Achievement | Details |
-|:------:|:------------|:--------|
-| ☁️ | **AWS Academy Cloud Security Foundations** | AWS Academy Certified |
-| 📊 | **85% ML Model Accuracy** | Google Cloud AI Platform · Trios Technologies |
-| 🛍️ | **1,500+ Daily Users** | 99% uptime · 35% faster page load · Innovate Intern |
-| ⚡ | **40% Latency Reduction** | Node.js REST API · 200+ concurrent requests |
-| 🗣️ | **Bilingual** | Tamil (Native) · English (Professional) |
- 
-</p>
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|:---:|:---|:---|
+| ☁️ | **AWS Academy Cloud Security Foundations** | Certified in AWS Cloud Security fundamentals |
+| 🎓 | **B.E Computer Science Engineering** | CGPA: **7.87 / 10.0** — Sri Sairam Institute of Technology |
+| 🌐 | **Front End Developer Intern** | Delivered UI for **1,500+ daily users** with **99% uptime** |
+| 🤖 | **ML Model Accuracy** | Achieved **85% validation accuracy** on supervised learning models |
+| 📉 | **Data Pipeline Optimization** | Cut data preparation time by **30%** across **12,000+ records** |
+
+</div>
+
 ---
- 
-<!-- EDUCATION -->
+
 ## 🎓 Education
- 
-<p align="center">
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.E — Computer Science & Engineering | Sri Sairam Institute of Technology, Chennai | 2022 – 2026 | 7.87 / 10.0 |
-| Higher Secondary Certificate (HSC) | Sree Narayana Guru Matric Hr Sec School | 2021 – 2022 | 86.5% |
-| Secondary School Leaving Certificate (SSLC) | Sree Narayana Guru Matric Hr Sec School | 2019 – 2020 | 74.8% |
- 
-</p>
+
+<div align="center">
+
+| 🏛️ Degree / Certificate | 🏫 Institution | 📅 Year | 📈 Score |
+|:---|:---|:---:|:---:|
+| B.E — Computer Science Engineering | Sri Sairam Institute of Technology, Chennai | Sep 2022 – May 2026 | **7.87 / 10.0** |
+| Higher Secondary Certificate (HSC) | Sree Narayana Guru Matric Hr Sec School | Jun 2021 – May 2022 | **86.5%** |
+| SSLC | Sree Narayana Guru Matric Hr Sec School | Jun 2019 – May 2020 | **74.8%** |
+
+</div>
+
 ---
- 
-<!-- CURRENTLY LEARNING -->
-## 📚 Currently Learning
- 
+
+## 🌱 Currently Learning
+
 ```
-☁️  AWS              →  EC2 · S3 · Cloud Security · Solutions Architecture
-🐳  Docker           →  containerization · multi-stage builds · compose
-🤖  Machine Learning →  model tuning · feature engineering · deployment
-⚙️  Spring Boot      →  microservices · JPA & Hibernate · REST best practices
+🧱 System Design       →  HLD, LLD, Microservices, Scalability Patterns
+☁️  AWS Cloud          →  EC2, S3, Lambda, VPC, IAM, CloudWatch
+🤖 Advanced ML         →  Feature Engineering, Model Serving, MLOps Basics
+⚛️  React Ecosystem    →  Redux Toolkit, React Query, Performance Optimization
+🐳 DevOps              →  Docker Compose, CI/CD Pipelines, GitHub Actions
 ```
- 
+
 ---
- 
-<!-- FOOTER WAVE -->
+
+## 🌐 Languages
+
+- 🗣️ **Tamil** — Native Proficiency
+- 💬 **English** — Professional Proficiency
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-s-592583257)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumars@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumars)
+
+*"Ship fast. Learn faster. Build better. 🚀"*
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0c10,1e1b4b,312e81,4338ca,6366f1&customColorList=0,2,4,6,8&height=130&section=footer&animation=twinkling" />
-</p>
-<p align="center">
-  <i>「 build fast · learn always · ship clean 」</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" />
 </p>
