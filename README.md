@@ -12,17 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20Kumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Machine%20Learning%20Practitioner&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Nithish%20Kumar%20S&fontSize=46&fontColor=70A5FD&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Machine%20Learning%20Practitioner&descAlignY=62&descSize=17&descColor=BF91F3" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithish+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%7C+Spring+Boot+%7C+Node.js;ML+Practitioner+%7C+Python+%7C+scikit-learn;Building+scalable+apps+%26+training+smart+models" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithish kumar+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%7C+Spring+Boot+%7C+Node.js;ML+Practitioner+%7C+Python+%7C+scikit-learn;Building+scalable+apps+%26+training+smart+models" alt="Typing SVG" />
   </a>
 </p>
-
 
 
 ---
@@ -119,6 +117,8 @@ public class NithishKumar {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+
 
 ---
 
