@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish kumar%20Kumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20Machine%20Learning%20Practitioner&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20Kumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20Machine%20Learning%20Practitioner&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithish kumar+%F0%9F%91%8B;Front-End+Developer+%7C+ML+Practitioner;Building+scalable+UIs+with+React+%26+Node.js;Turning+data+into+insights+with+Python+%26+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithish+%F0%9F%91%8B;Front-End+Developer+%7C+ML+Practitioner;Building+scalable+UIs+with+React+%26+Node.js;Turning+data+into+insights+with+Python+%26+ML" alt="Typing SVG" />
   </a>
 </p>
 
