@@ -23,13 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithishkumars&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nithishkumars"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
+
 
 ---
 
@@ -37,34 +31,39 @@ Here are some ideas to get you started:
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class NithishKumar:
-    def __init__(self):
-        self.name     = "Nithish Kumar S"
-        self.location = "Chennai, Tamil Nadu, India"
-        self.degree   = "B.E – Computer Science Engineering"
-        self.college  = "Sri Sairam Institute of Technology"
-        self.stack    = [
-            "React", "Spring Boot", "Node.js",
-            "Python", "Java", "MySQL", "Docker"
-        ]
-        self.currently_learning = [
-            "Microservices with Spring Boot",
-            "Deep Learning & Neural Networks",
-            "AWS EC2 & S3 Architecture",
-            "Advanced React Patterns"
-        ]
-        self.fun_fact = (
-            "I build full-stack apps by day "
-            "and train ML models by night 🌙"
-        )
+```java
+public class NithishKumar {
 
-    def motto(self):
-        return "Code with purpose. Ship with confidence. Learn without limits."
+    String   name     = "Nithish Kumar S";
+    String   location = "Chennai, Tamil Nadu, India";
+    String   degree   = "B.E – Computer Science Engineering";
+    String   college  = "Sri Sairam Institute of Technology";
 
-me = NithishKumar()
-print(me.motto())
-# Output: Code with purpose. Ship with confidence. Learn without limits.
+    String[] stack = {
+        "React", "Spring Boot", "Node.js",
+        "Python", "Java", "MySQL", "Docker"
+    };
+
+    String[] currentlyLearning = {
+        "Microservices with Spring Boot",
+        "Deep Learning & Neural Networks",
+        "AWS EC2 & S3 Architecture",
+        "Advanced React Patterns"
+    };
+
+    String funFact = "I build full-stack apps by day "
+                   + "and train ML models by night 🌙";
+
+    public String motto() {
+        return "Code with purpose. Ship with confidence. Learn without limits.";
+    }
+
+    public static void main(String[] args) {
+        NithishKumar me = new NithishKumar();
+        System.out.println(me.motto());
+        // Output: Code with purpose. Ship with confidence. Learn without limits.
+    }
+}
 ```
 
 <br clear="right"/>
