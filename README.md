@@ -22,13 +22,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithishkumars&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nithishkumars"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
 
 ---
 
