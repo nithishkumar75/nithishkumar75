@@ -20,17 +20,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithish+%F0%9F%91%8B;Front-End+Developer+%7C+ML+Practitioner;Building+scalable+UIs+with+React+%26+Node.js;Turning+data+into+insights+with+Python+%26+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithish+%F0%9F%91%8B;Front-End+Developer+%7C;Building+scalable+UIs+with+React+%26+Node.js" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithishkumars&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nithishkumars"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
+
 
 ---
 
